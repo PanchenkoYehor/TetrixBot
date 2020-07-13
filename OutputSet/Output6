@@ -1,0 +1,2000 @@
+J 5
+shift_left shift_left shift_left shift_left rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right 
+Z 3
+shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+S 4
+shift_left shift_left shift_left rotate 
+I 1
+shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 2
+shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+I 4
+shift_left shift_left shift_left 
+I 3
+shift_left shift_left shift_right 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right 
+L 5
+shift_left shift_left shift_left shift_left shift_right shift_right 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right 
+S 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right 
+S 3
+shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right 
+I 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+S 2
+shift_left rotate shift_right shift_right shift_right shift_right shift_right 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+J 1
+rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 1
+rotate shift_right shift_right shift_right 
+T 6
+shift_left shift_left shift_left shift_left shift_left 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right 
+Z 1
+shift_right shift_right shift_right 
+I 5
+shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+S 4
+shift_left shift_left shift_left rotate 
+T 5
+shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right 
+L 4
+shift_left shift_left shift_left rotate rotate rotate shift_right 
+J 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 4
+shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 5
+shift_left shift_left shift_left shift_left rotate 
+T 5
+shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right 
+S 4
+shift_left shift_left shift_left shift_right shift_right shift_right 
+O 1
+shift_right shift_right shift_right shift_right shift_right shift_right 
+T 1
+rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 2
+shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 2
+shift_left rotate rotate rotate 
+L 3
+shift_left shift_left rotate shift_right shift_right shift_right 
+S 3
+shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 2
+shift_left shift_right shift_right 
+J 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right 
+L 2
+shift_left 
+Z 4
+shift_left shift_left shift_left rotate shift_right 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+L 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 4
+shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right 
+L 2
+shift_left rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 3
+shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+S 1
+shift_right shift_right shift_right 
+I 3
+shift_left shift_left 
+I 2
+shift_left shift_right 
+Z 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right 
+S 3
+shift_left shift_left rotate shift_right shift_right 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+I 5
+shift_left shift_left shift_left shift_left rotate 
+I 1
+shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 1
+rotate 
+I 2
+shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right shift_right 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 3
+shift_left shift_left shift_right 
+O 6
+shift_left shift_left shift_left shift_left shift_left shift_right 
+O 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right 
+S 5
+shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+I 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+I 3
+shift_left shift_left shift_right shift_right shift_right 
+L 2
+shift_left rotate shift_right shift_right shift_right shift_right 
+O 1
+shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 5
+shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+I 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 2
+shift_left rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left shift_right 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+S 3
+shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+O 2
+shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right 
+L 4
+shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right 
+I 5
+shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right 
+L 4
+shift_left shift_left shift_left shift_right shift_right 
+O 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+S 1
+rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+L 5
+shift_left shift_left shift_left shift_left rotate shift_right shift_right 
+S 2
+shift_left rotate 
+I 4
+shift_left shift_left shift_left rotate shift_right 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right 
+I 5
+shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 1
+rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 1
+rotate rotate shift_right shift_right shift_right 
+T 2
+shift_left rotate rotate 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 6
+shift_left shift_left shift_left shift_left shift_left shift_right 
+L 3
+shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 3
+shift_left shift_left shift_right shift_right shift_right shift_right 
+O 2
+shift_left shift_right 
+J 2
+shift_left rotate rotate rotate shift_right shift_right shift_right shift_right 
+S 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right 
+O 1
+
+O 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 1
+rotate rotate rotate shift_right shift_right 
+S 1
+
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate rotate 
+Z 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right 
+I 1
+shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right 
+I 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+S 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right 
+O 5
+shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+O 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+T 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right 
+J 2
+shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+I 2
+shift_left 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right 
+O 1
+shift_right shift_right shift_right shift_right 
+L 5
+shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+T 1
+rotate rotate rotate shift_right 
+S 2
+shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+O 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate rotate 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+Z 2
+shift_left rotate shift_right shift_right shift_right shift_right 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right 
+Z 2
+shift_left shift_right shift_right shift_right 
+T 3
+shift_left shift_left rotate rotate 
+S 3
+shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 3
+shift_left shift_left rotate rotate rotate 
+Z 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right 
+S 3
+shift_left shift_left rotate 
+S 1
+rotate shift_right shift_right 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+L 3
+shift_left shift_left rotate rotate shift_right shift_right shift_right 
+S 3
+shift_left shift_left rotate 
+L 1
+rotate rotate shift_right 
+S 4
+shift_left shift_left shift_left rotate shift_right shift_right shift_right 
+Z 4
+shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+L 2
+shift_left rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 4
+shift_left shift_left shift_left rotate rotate rotate shift_right shift_right 
+S 3
+shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+L 2
+shift_left rotate rotate shift_right 
+O 4
+shift_left shift_left shift_left shift_right shift_right shift_right 
+T 4
+shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right shift_right shift_right 
+T 2
+shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 5
+shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+O 4
+shift_left shift_left shift_left shift_right shift_right 
+Z 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right 
+J 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate shift_right 
+L 4
+shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+L 5
+shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 4
+shift_left shift_left shift_left rotate rotate 
+T 1
+rotate rotate shift_right shift_right shift_right 
+Z 4
+shift_left shift_left shift_left shift_right 
+J 2
+shift_left rotate rotate rotate shift_right shift_right shift_right 
+O 2
+shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+J 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate 
+O 5
+shift_left shift_left shift_left shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right shift_right 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+O 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 4
+shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right 
+Z 4
+shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+Z 3
+shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+S 2
+shift_left rotate shift_right shift_right shift_right 
+O 2
+shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right 
+Z 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right 
+Z 5
+shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+T 1
+rotate rotate rotate 
+L 5
+shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right shift_right 
+I 2
+shift_left rotate shift_right shift_right shift_right shift_right 
+L 1
+rotate rotate rotate shift_right shift_right shift_right shift_right shift_right 
+J 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right shift_right 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 5
+shift_left shift_left shift_left shift_left shift_right shift_right shift_right 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right 
+L 4
+shift_left shift_left shift_left rotate rotate shift_right shift_right shift_right shift_right shift_right shift_right 
+L 2
+shift_left rotate shift_right shift_right shift_right 
+T 2
+shift_left rotate rotate rotate 
+O 2
+shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+L 2
+shift_left rotate rotate rotate shift_right shift_right shift_right 
+S 4
+shift_left shift_left shift_left rotate 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 5
+shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate shift_right shift_right 
+O 1
+shift_right shift_right shift_right shift_right shift_right 
+L 3
+shift_left shift_left rotate rotate rotate shift_right shift_right 
+I 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right 
+Z 3
+shift_left shift_left rotate shift_right shift_right shift_right shift_right shift_right shift_right shift_right shift_right 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right shift_right shift_right shift_right 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate rotate shift_right shift_right shift_right 
+L 3
+shift_left shift_left rotate rotate shift_right 
+L 4
+shift_left shift_left shift_left 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate rotate 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+L 1
+rotate rotate 
+Z 6
+shift_left shift_left shift_left shift_left shift_left shift_right shift_right shift_right 
+J 6
+shift_left shift_left shift_left shift_left shift_left rotate rotate 
+T 2
+shift_left rotate 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 3
+shift_left shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 2
+shift_left 
+L 3
+shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+L 3
+shift_left shift_left 
+L 2
+shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 3
+shift_left shift_left rotate 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+J 4
+shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+T 2
+shift_left rotate 
+J 4
+shift_left shift_left shift_left 
+L 1
+
+I 1
+
+S 2
+shift_left rotate 
+I 5
+shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+T 2
+shift_left rotate 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 1
+rotate 
+T 3
+shift_left shift_left rotate 
+L 5
+shift_left shift_left shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+O 5
+shift_left shift_left shift_left shift_left 
+I 3
+shift_left shift_left 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+O 1
+
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+I 4
+shift_left shift_left shift_left 
+I 4
+shift_left shift_left shift_left 
+L 1
+
+Z 4
+shift_left shift_left shift_left rotate 
+I 1
+
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 2
+shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 2
+shift_left 
+Z 3
+shift_left shift_left rotate 
+T 4
+shift_left shift_left shift_left rotate 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 3
+shift_left shift_left 
+Z 4
+shift_left shift_left shift_left rotate 
+I 4
+shift_left shift_left shift_left 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+T 4
+shift_left shift_left shift_left rotate 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+I 3
+shift_left shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+Z 1
+rotate 
+L 3
+shift_left shift_left 
+I 1
+
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+S 4
+shift_left shift_left shift_left rotate 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+T 4
+shift_left shift_left shift_left rotate 
+T 3
+shift_left shift_left rotate 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+S 1
+rotate 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+J 2
+shift_left 
+J 4
+shift_left shift_left shift_left 
+O 2
+shift_left 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 1
+rotate 
+S 3
+shift_left shift_left rotate 
+Z 1
+rotate 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+L 5
+shift_left shift_left shift_left shift_left 
+O 3
+shift_left shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+S 4
+shift_left shift_left shift_left rotate 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 6
+shift_left shift_left shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 3
+shift_left shift_left rotate 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 6
+shift_left shift_left shift_left shift_left shift_left 
+O 4
+shift_left shift_left shift_left 
+T 2
+shift_left rotate 
+J 2
+shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 5
+shift_left shift_left shift_left shift_left 
+O 4
+shift_left shift_left shift_left 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 2
+shift_left rotate 
+T 1
+rotate 
+I 2
+shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 2
+shift_left rotate 
+S 1
+rotate 
+L 1
+
+S 5
+shift_left shift_left shift_left shift_left rotate 
+I 4
+shift_left shift_left shift_left 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+Z 4
+shift_left shift_left shift_left rotate 
+T 1
+rotate 
+I 2
+shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+T 2
+shift_left rotate 
+J 4
+shift_left shift_left shift_left 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+L 5
+shift_left shift_left shift_left shift_left 
+J 4
+shift_left shift_left shift_left 
+L 3
+shift_left shift_left 
+S 3
+shift_left shift_left rotate 
+O 1
+
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+O 3
+shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+Z 1
+rotate 
+J 4
+shift_left shift_left shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+S 1
+rotate 
+I 3
+shift_left shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 1
+rotate 
+J 2
+shift_left 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+I 1
+
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 3
+shift_left shift_left rotate 
+L 5
+shift_left shift_left shift_left shift_left 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+L 2
+shift_left 
+L 1
+
+I 4
+shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+O 4
+shift_left shift_left shift_left 
+O 4
+shift_left shift_left shift_left 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 3
+shift_left shift_left 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 2
+shift_left rotate 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 2
+shift_left 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+Z 4
+shift_left shift_left shift_left rotate 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+L 1
+
+L 4
+shift_left shift_left shift_left 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 4
+shift_left shift_left shift_left rotate 
+O 5
+shift_left shift_left shift_left shift_left 
+L 3
+shift_left shift_left 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 4
+shift_left shift_left shift_left 
+S 4
+shift_left shift_left shift_left rotate 
+O 2
+shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+Z 1
+rotate 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 5
+shift_left shift_left shift_left shift_left 
+O 1
+
+Z 1
+rotate 
+J 5
+shift_left shift_left shift_left shift_left 
+L 4
+shift_left shift_left shift_left 
+S 3
+shift_left shift_left rotate 
+I 3
+shift_left shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+S 1
+rotate 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 4
+shift_left shift_left shift_left rotate 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 3
+shift_left shift_left 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+J 2
+shift_left 
+S 3
+shift_left shift_left rotate 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+Z 2
+shift_left rotate 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 4
+shift_left shift_left shift_left rotate 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 3
+shift_left shift_left rotate 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 3
+shift_left shift_left rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 1
+
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+L 1
+
+J 5
+shift_left shift_left shift_left shift_left 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+O 5
+shift_left shift_left shift_left shift_left 
+O 6
+shift_left shift_left shift_left shift_left shift_left 
+L 2
+shift_left 
+I 4
+shift_left shift_left shift_left 
+O 1
+
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 3
+shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+L 4
+shift_left shift_left shift_left 
+I 3
+shift_left shift_left 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+J 1
+
+S 1
+rotate 
+Z 2
+shift_left rotate 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 1
+
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 2
+shift_left 
+J 4
+shift_left shift_left shift_left 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+L 2
+shift_left 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 4
+shift_left shift_left shift_left 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 1
+
+S 4
+shift_left shift_left shift_left rotate 
+I 4
+shift_left shift_left shift_left 
+J 3
+shift_left shift_left 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 2
+shift_left 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 1
+
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+T 1
+rotate 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 3
+shift_left shift_left rotate 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+I 5
+shift_left shift_left shift_left shift_left 
+L 4
+shift_left shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+J 2
+shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+L 5
+shift_left shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 4
+shift_left shift_left shift_left 
+T 1
+rotate 
+Z 4
+shift_left shift_left shift_left rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+T 4
+shift_left shift_left shift_left rotate 
+S 4
+shift_left shift_left shift_left rotate 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 2
+shift_left rotate 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 4
+shift_left shift_left shift_left rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 1
+rotate 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 5
+shift_left shift_left shift_left shift_left 
+L 5
+shift_left shift_left shift_left shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 2
+shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 1
+rotate 
+I 4
+shift_left shift_left shift_left 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+S 4
+shift_left shift_left shift_left rotate 
+L 1
+
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+T 1
+rotate 
+J 1
+
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+I 5
+shift_left shift_left shift_left shift_left 
+J 3
+shift_left shift_left 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 2
+shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 1
+
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 1
+
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+T 4
+shift_left shift_left shift_left rotate 
+O 3
+shift_left shift_left 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+O 5
+shift_left shift_left shift_left shift_left 
+S 4
+shift_left shift_left shift_left rotate 
+O 1
+
+S 3
+shift_left shift_left rotate 
+S 3
+shift_left shift_left rotate 
+Z 3
+shift_left shift_left rotate 
+I 5
+shift_left shift_left shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 5
+shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+I 1
+
+O 2
+shift_left 
+O 3
+shift_left shift_left 
+O 3
+shift_left shift_left 
+O 4
+shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 1
+
+I 3
+shift_left shift_left 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+T 1
+rotate 
+L 4
+shift_left shift_left shift_left 
+Z 3
+shift_left shift_left rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 5
+shift_left shift_left shift_left shift_left 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+J 3
+shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 4
+shift_left shift_left shift_left rotate 
+Z 2
+shift_left rotate 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+L 3
+shift_left shift_left 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 5
+shift_left shift_left shift_left shift_left 
+O 2
+shift_left 
+I 4
+shift_left shift_left shift_left 
+Z 1
+rotate 
+O 4
+shift_left shift_left shift_left 
+O 5
+shift_left shift_left shift_left shift_left 
+T 2
+shift_left rotate 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 2
+shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+S 1
+rotate 
+T 3
+shift_left shift_left rotate 
+J 3
+shift_left shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 1
+rotate 
+Z 1
+rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 2
+shift_left rotate 
+S 2
+shift_left rotate 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+O 2
+shift_left 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 5
+shift_left shift_left shift_left shift_left 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 5
+shift_left shift_left shift_left shift_left 
+L 1
+
+J 2
+shift_left 
+L 3
+shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 1
+rotate 
+T 3
+shift_left shift_left rotate 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 4
+shift_left shift_left shift_left 
+L 2
+shift_left 
+Z 1
+rotate 
+T 2
+shift_left rotate 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 1
+
+L 3
+shift_left shift_left 
+L 3
+shift_left shift_left 
+S 1
+rotate 
+O 1
+
+T 5
+shift_left shift_left shift_left shift_left rotate 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 1
+rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 3
+shift_left shift_left 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+J 3
+shift_left shift_left 
+L 5
+shift_left shift_left shift_left shift_left 
+J 4
+shift_left shift_left shift_left 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 1
+rotate 
+L 1
+
+L 5
+shift_left shift_left shift_left shift_left 
+J 1
+
+T 3
+shift_left shift_left rotate 
+I 2
+shift_left 
+Z 3
+shift_left shift_left rotate 
+I 2
+shift_left 
+T 1
+rotate 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+T 2
+shift_left rotate 
+J 1
+
+Z 2
+shift_left rotate 
+O 3
+shift_left shift_left 
+O 4
+shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+O 1
+
+S 1
+rotate 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 2
+shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+O 5
+shift_left shift_left shift_left shift_left 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+J 5
+shift_left shift_left shift_left shift_left 
+J 5
+shift_left shift_left shift_left shift_left 
+O 2
+shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 1
+
+I 4
+shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 2
+shift_left 
+Z 1
+rotate 
+T 2
+shift_left rotate 
+I 3
+shift_left shift_left 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+J 4
+shift_left shift_left shift_left 
+S 1
+rotate 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+O 4
+shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 2
+shift_left 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 1
+
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 6
+shift_left shift_left shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 5
+shift_left shift_left shift_left shift_left 
+Z 3
+shift_left shift_left rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+I 5
+shift_left shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 4
+shift_left shift_left shift_left rotate 
+L 4
+shift_left shift_left shift_left 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+Z 5
+shift_left shift_left shift_left shift_left rotate 
+L 2
+shift_left 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 4
+shift_left shift_left shift_left 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 4
+shift_left shift_left shift_left 
+J 3
+shift_left shift_left 
+I 1
+
+O 2
+shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+L 1
+
+S 2
+shift_left rotate 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 2
+shift_left 
+O 1
+
+O 3
+shift_left shift_left 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 5
+shift_left shift_left shift_left shift_left 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 4
+shift_left shift_left shift_left rotate 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+J 1
+
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+L 4
+shift_left shift_left shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+T 3
+shift_left shift_left rotate 
+J 3
+shift_left shift_left 
+S 1
+rotate 
+J 1
+
+J 2
+shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+T 3
+shift_left shift_left rotate 
+I 2
+shift_left 
+J 3
+shift_left shift_left 
+J 3
+shift_left shift_left 
+O 6
+shift_left shift_left shift_left shift_left shift_left 
+O 2
+shift_left 
+S 4
+shift_left shift_left shift_left rotate 
+Z 4
+shift_left shift_left shift_left rotate 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 4
+shift_left shift_left shift_left 
+O 3
+shift_left shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 3
+shift_left shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 2
+shift_left rotate 
+I 2
+shift_left 
+I 4
+shift_left shift_left shift_left 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 4
+shift_left shift_left shift_left 
+L 4
+shift_left shift_left shift_left 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+Z 4
+shift_left shift_left shift_left rotate 
+S 2
+shift_left rotate 
+T 3
+shift_left shift_left rotate 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+T 1
+rotate 
+T 4
+shift_left shift_left shift_left rotate 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+T 1
+rotate 
+Z 2
+shift_left rotate 
+T 3
+shift_left shift_left rotate 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 1
+rotate 
+J 1
+
+T 4
+shift_left shift_left shift_left rotate 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+J 4
+shift_left shift_left shift_left 
+S 5
+shift_left shift_left shift_left shift_left rotate 
+T 1
+rotate 
+O 1
+
+I 3
+shift_left shift_left 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+S 3
+shift_left shift_left rotate 
+J 1
+
+O 2
+shift_left 
+S 1
+rotate 
+Z 4
+shift_left shift_left shift_left rotate 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+O 3
+shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 4
+shift_left shift_left shift_left rotate 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+L 3
+shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+L 5
+shift_left shift_left shift_left shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+Z 2
+shift_left rotate 
+Z 1
+rotate 
+I 1
+
+S 1
+rotate 
+J 5
+shift_left shift_left shift_left shift_left 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+O 5
+shift_left shift_left shift_left shift_left 
+J 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 4
+shift_left shift_left shift_left 
+S 2
+shift_left rotate 
+O 2
+shift_left 
+Z 1
+rotate 
+I 5
+shift_left shift_left shift_left shift_left 
+L 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+Z 3
+shift_left shift_left rotate 
+I 2
+shift_left 
+O 5
+shift_left shift_left shift_left shift_left 
+J 1
+
+J 2
+shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+L 5
+shift_left shift_left shift_left shift_left 
+L 2
+shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+T 4
+shift_left shift_left shift_left rotate 
+L 5
+shift_left shift_left shift_left shift_left 
+J 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 4
+shift_left shift_left shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+J 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+L 3
+shift_left shift_left 
+S 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+O 4
+shift_left shift_left shift_left 
+I 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+Z 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 6
+shift_left shift_left shift_left shift_left shift_left 
+L 6
+shift_left shift_left shift_left shift_left shift_left 
+Z 1
+rotate 
+O 1
+
+O 4
+shift_left shift_left shift_left 
+I 10
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+O 6
+shift_left shift_left shift_left shift_left shift_left 
+O 9
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 3
+shift_left shift_left rotate 
+O 5
+shift_left shift_left shift_left shift_left 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+T 4
+shift_left shift_left shift_left rotate 
+L 4
+shift_left shift_left shift_left 
+I 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 3
+shift_left shift_left 
+O 7
+shift_left shift_left shift_left shift_left shift_left shift_left 
+I 4
+shift_left shift_left shift_left 
+Z 1
+rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 4
+shift_left shift_left shift_left rotate 
+T 4
+shift_left shift_left shift_left rotate 
+O 8
+shift_left shift_left shift_left shift_left shift_left shift_left shift_left 
+T 5
+shift_left shift_left shift_left shift_left rotate 
+Z 3
+shift_left shift_left rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+Z 1
+rotate 
+T 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+S 2
+shift_left rotate 
+Z 2
+shift_left rotate 
+Z 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+J 6
+shift_left shift_left shift_left shift_left shift_left 
+I 5
+shift_left shift_left shift_left shift_left 
+T 1
+rotate 
+T 6
+shift_left shift_left shift_left shift_left shift_left rotate 
+J 2
+shift_left 
+S 1
+rotate 
+J 5
+shift_left shift_left shift_left shift_left 
+I 4
+shift_left shift_left shift_left 
+S 7
+shift_left shift_left shift_left shift_left shift_left shift_left rotate 
+I 1
+
+O 1
+
+S 3
+shift_left shift_left rotate 
+I 3
+shift_left shift_left 
+L 2
+shift_left 

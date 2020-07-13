@@ -1,0 +1,299 @@
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <map>
+
+using namespace std;
+
+const long long inf = 1e18;
+
+char field[30][10];
+
+char curr[30][10];
+int k = 6;
+
+long long pow(long long a, long long n) {
+    long long res = 1;
+    for (long long i = 0; i < n; i++)
+        res += a;
+    return res;
+}
+
+pair<int, long long> evaluate() {
+    long long st = 1;
+    long long res = 0;
+    for (int i = 0; i < 20; i++, st *= k) {
+        for (int j = 0; j < 10; j++)
+            res += (curr[i][j] - '0') * st;
+    }
+    int cnt_bad = 0;
+    for (int i = 0; i < 20; i++)
+        for (int j = 0; j < 10; j++) {
+            if (curr[i][j] == '1')
+                continue;
+            int p = -1;
+            for (int ii = i + 1; ii < 20; ii++)
+                if (curr[ii][j] == '1')
+                    p = ii;
+            if (p == -1)
+                continue;
+
+            //cnt_bad += pow((p - i), 2);
+            cnt_bad++;
+        }
+
+    res += pow((2 * k), cnt_bad);
+
+    int top = -1;
+    for (int i = 0; i < 30; i++)
+        for (int j = 0; j < 10; j++)
+            if (curr[i][j] == '1')
+                top = i;
+    return make_pair(top, res);
+}
+
+vector < string > fig {
+        {"0000000011001100",
+         "1000100010001000",
+         "0000000001101100",
+         "0000000011000110",
+         "0000100010001100",
+         "0000010001001100",
+         "0000000011100100"}
+};
+
+map <string, int > figure;
+
+string Rotate(string s) {
+    //cout<<"rotate.start\n";
+    string res = "";
+    res += s.substr(12, 1) +
+            s.substr(8, 1) +
+            s.substr(4, 1) +
+            s.substr(0, 1) +
+            s.substr(13, 1) +
+            s.substr(9, 1) +
+            s.substr(5, 1) +
+            s.substr(1, 1) +
+            s.substr(14, 1) +
+            s.substr(10, 1) +
+            s.substr(6, 1) +
+            s.substr(2, 1) +
+            s.substr(15, 1) +
+            s.substr(11, 1) +
+            s.substr(7, 1) +
+            s.substr(3, 1);
+            //s[8] + s[4] + s[0] + s[13] + s[9] + s[5] + s[1] +
+            //s[14] + s[10] + s[6] + s[2] + s[5] + s[11] + s[7] + s[3];
+    //cout<<s<<" "<<res<<"\n";
+    //down
+    while (true) {
+        //cout<<res<<"\n";
+        bool f = true;
+        for (int i = 12; i < 16; i++)
+            if (res[i]  == '1')
+                f = false;
+        if (!f)
+            break;
+        for (int i = 15; i >= 4; i--)
+            res[i] = res[i - 4];
+        for (int i = 0; i < 4; i++)
+            res[i] = '0';
+    }
+    //cout<<"work\n";
+    //left
+    while (true) {
+        bool f = true;
+        for (int i = 0; i < 16; i += 4)
+            if (res[i] == '1')
+                f = false;
+        if (!f)
+            break;
+        for (int i = 0; i < 12; i++)
+            res[4 * (i % 4) + i / 4] = res[4 * (i % 4) + i / 4 + 1];
+        for (int i = 0; i < 4; i++)
+            res[4 * i + 3] = '0';
+    }
+    //cout<<"rotate.end\n";
+    return res;
+}
+
+vector < string > dir = {"shift_left ", "shift_right "};
+
+void solve(string s) {
+    string ask = "";
+    int pos;
+    cin>>pos;
+    pos--;
+    //cout<<s<<" "<<pos<<"\n";
+    long long bestval = inf;
+    int best_cnt_rot = 0;
+    int best_pos = 0;
+    int besttop = 35;
+    int bestfield[30][10];
+    string currstr = fig[figure[s]];
+    int move_left = pos;
+    pos = 0;
+    /*cout<<currstr<<"\n";
+    cout<<Rotate(currstr)<<"\n";
+    cout<<Rotate(Rotate(currstr))<<"\n";
+    cout<<Rotate(Rotate(Rotate(currstr)))<<"\n";
+    cout<<Rotate(Rotate(Rotate(Rotate(currstr))))<<"\n";*/
+    for (int p = 0; p < 10; p++) {
+        for (int rot = 0; rot < 4; rot++, currstr = Rotate(currstr)) {
+            //cout<<p<<" "<<rot<<"\n";
+            vector < pair<int,int> > v;
+            for (int i = 0; i < 16; i++)
+                if (currstr[i] == '1')
+                    v.push_back(make_pair(25 - (i / 4), p + (i % 4)));
+            bool cor = true;
+            for (auto i : v)
+                if (i.second >= 10)
+                    cor = false;
+            if (!cor) {
+                /*for (int rest_rot = rot; rest_rot < 4; rest_rot++)
+                    currstr = Rotate(currstr);
+                break;*/
+                continue;
+            }
+
+            for (int i = 0; i < 30; i++)
+                for (int j = 0; j < 10; j++)
+                    curr[i][j] = field[i][j];
+            //cout<<"pass\n";
+            while (true) { //move down
+                bool can = true;
+                for (auto i : v)
+                    if (i.first - 1 < 0 || curr[i.first - 1][i.second] == '1')
+                        can = false;
+                if (!can)
+                    break;
+
+                for (auto &i : v)
+                    i.first--;
+            }
+            //cout<<"pass\n";
+            for (auto i : v)
+                curr[i.first][i.second] = '1';
+
+            for (int i = 0; i < 30; i++) {
+                //cout<<i<<"\n";
+                bool can = true;
+                for (int j = 0; j < 10; j++)
+                    if (curr[i][j] == '0')
+                        can = false;
+                if (can) {
+                    for (int ii = i; ii + 1 < 30; ii++)
+                        for (int j = 0; j < 10; j++)
+                            curr[ii][j] = curr[ii + 1][j];
+                    for (int j = 0; j < 10; j++)
+                        curr[29][j] = '0';
+                    i--;
+                }
+            }
+            //cout<<"pass\n";
+            //cout<<p<<" "<<rot<<" "<<evaluate()<<"\n";
+            /*int top = 0;
+            for (int i = 0; i < 20; i++)
+                for (int j = 0; j < 10; j++)
+                    if (curr[i][j] == '1')
+                        top = i;*/
+            if (evaluate() < make_pair(besttop, bestval)) {
+                bestval = evaluate().second;
+                besttop = evaluate().first;
+                best_cnt_rot = rot;
+                best_pos = p;
+                for (int i = 0; i < 30; i++)
+                    for (int j = 0; j < 10; j++)
+                        bestfield[i][j] = curr[i][j];
+            }
+            //cout<<"end\n";
+        }
+    }
+
+    for (int i = 0; i < 30; i++)
+        for (int j = 0; j < 10; j++)
+            field[i][j] = bestfield[i][j];
+
+    bool isprinted = false;
+    //cout<<"best_pos = "<<best_pos<<"\n";
+    //cout<<"pos = "<<pos<<"\n";
+
+    vector < string > asks;
+    for (int i = 0; i < best_cnt_rot; i++) {
+        ask += "rotate ";
+        asks.push_back("rotate ");
+    }
+    for (int i = 0; i < abs(best_pos - pos); i++) {
+        ask += dir[best_pos > pos];
+        asks.push_back(dir[best_pos > pos]);
+    }
+
+    /*if (ask.size() == 0) {
+        ask += (pos < 5 ? (dir[1] + dir[0]) : (dir[0] + dir[1]));
+        asks.push_back(pos < 5 ? (dir[1] + dir[0]) : (dir[0] + dir[1]));
+    }*/
+
+    //asks.push_back(best_pos < 5 ? dir[1] : dir[0]);
+
+
+    /*if (asks.size() && asks[0] == dir[1]) {
+        reverse(asks.begin(), asks.end());
+    }*/
+    //asks.push_back(best_pos < 5 ? dir[0] : dir[1]);
+    //cout<<s<<" "<<(pos + 1)<<"\n";
+    cout<<s<<" "<<move_left + 1<<"\n";
+    //cout<<ask<<"\n";
+    for (int i = 0; i < move_left; i++)
+        cout<<dir[0];
+    for (int i = 0; i < asks.size(); i++)
+        cout<<asks[i];
+    //cout<<asks.back().substr(0, asks.back().size() - 1);
+    /*for (int i = 0; i < move_left; i++)
+        cout<<dir[1];*/
+    cout<<"\n";
+}
+
+int main() {
+    /*for (int i = 0; i < 30; i++)
+        for (int j = 0; j < 10; j++)
+            curr[i][j] = '0';
+    for (int i = 0; i < 4; i++)
+        for (int j = 0; j < 9; j++)
+            curr[i][j] = '1';
+    auto res1 = evaluate();
+    for (int i = 0; i < 30; i++)
+        for (int j = 0; j < 10; j++)
+            curr[i][j] = '0';
+    for (int i = 0; i <= 4; i++)
+        for (int j = 0; j < 8; j++)
+            curr[i][j] = (i == 4 && j >= 4 ? '1' : '0');
+    auto res2 = evaluate();
+    cout<<res1.first<<" "<<res1.second<<"\n";
+    cout<<res2.first<<" "<<res2.second<<"\n";*/
+    freopen("C:\\Users\\panen\\CLionProjects\\Tasks\\input.txt", "r", stdin);
+    freopen("C:\\Users\\panen\\CLionProjects\\Tasks\\output.txt", "w", stdout);
+    for (int i = 0; i < 30; i++)
+        for (int j = 0; j < 10; j++)
+            field[i][j] = '0';
+    figure["O"] = 0;
+    figure["I"] = 1;
+    figure["S"] = 2;
+    figure["Z"] = 3;
+    figure["L"] = 4;
+    figure["J"] = 5;
+    figure["T"] = 6;
+    while (true) {
+        /*if (cin.eof())
+            break;*/
+        string s;
+        /*if (cin.eof())
+            break;*/
+        cin>>s;
+        if (s == "0")
+            break;
+        MakeBestMove(s);
+    }
+}
